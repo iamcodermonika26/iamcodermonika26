@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web development projects (HTML, CSS, JavaScript)<br>Improving problem-solving<br>👯 I’m looking to collaborate on Beginner-friendly open-source projects<br>Frontend websites & tech learning projects<br>🤝 I’m looking for help with Data structures & algorithms<br>Open-source contribution guidance<br>🌱 I’m currently learning JavaScript & modern web development<br>💬 Ask me about HTML, CSS basics<br>College life, tech learning resources<br>⚡ Fun fact I love learning new skills and improving a little every day 🚀
+🔭 I’m currently working on Web development projects (HTML, CSS, JavaScript)<br>Improving problem-solving<br>👯 I’m looking to collaborate on Beginner-friendly open-source projects<br>Frontend websites & tech learning projects<br>🤝 I’m looking for help with Data structures & algorithms<br>Open-source contribution guidance<br>🌱 I’m currently learning JavaScript & modern web development<br>💬 Ask me about HTML, CSS , javascript <br>College life, tech learning resources<br>⚡ Fun fact I love learning new skills and improving a little every day 🚀
 
 
 # 💻 Tech Stack:
